@@ -1,0 +1,2 @@
+/usr/bin/ar qc libml_lib.a CMakeFiles/ml_lib.dir/src/model_layer_initializer.cpp.o CMakeFiles/ml_lib.dir/src/model_layer_type.cpp.o CMakeFiles/ml_lib.dir/src/model_lossfunction.cpp.o CMakeFiles/ml_lib.dir/src/model_optimizer.cpp.o CMakeFiles/ml_lib.dir/src/tensor_element_autodiff_node.cpp.o CMakeFiles/ml_lib.dir/src/tensor_element.cpp.o CMakeFiles/ml_lib.dir/src/tensor.cpp.o
+/usr/bin/ranlib libml_lib.a

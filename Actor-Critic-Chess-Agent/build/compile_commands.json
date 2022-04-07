@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/apps",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/main.dir/main.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/apps/main.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/apps/main.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/apps",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/main.dir/__/src/chess_agent_environment.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/src/chess_agent_environment.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/src/chess_agent_environment.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/apps",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/main.dir/__/src/chess_agent_replay.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/src/chess_agent_replay.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/src/chess_agent_replay.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/apps",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/main.dir/__/src/chess_agent_train.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/src/chess_agent_train.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/src/chess_agent_train.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/apps",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/main.dir/__/src/chess_agent_test.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/src/chess_agent_test.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/src/chess_agent_test.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/chess_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -g -std=gnu++2a -o CMakeFiles/chess_lib.dir/src/chess_board.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/src/chess_board.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/src/chess_board.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/chess_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -g -std=gnu++2a -o CMakeFiles/chess_lib.dir/src/chess_game.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/src/chess_game.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/src/chess_game.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/chess_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -g -std=gnu++2a -o CMakeFiles/chess_lib.dir/src/chess_move.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/src/chess_move.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/src/chess_move.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/chess_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/include -g -std=gnu++2a -o CMakeFiles/chess_lib.dir/src/chess_piece.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/src/chess_piece.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/chess_lib/src/chess_piece.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/ml_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/ml_lib.dir/src/model_layer_initializer.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/model_layer_initializer.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/model_layer_initializer.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/ml_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/ml_lib.dir/src/model_layer_type.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/model_layer_type.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/model_layer_type.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/ml_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/ml_lib.dir/src/model_lossfunction.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/model_lossfunction.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/model_lossfunction.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/ml_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/ml_lib.dir/src/model_optimizer.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/model_optimizer.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/model_optimizer.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/ml_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/ml_lib.dir/src/tensor_element_autodiff_node.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/tensor_element_autodiff_node.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/tensor_element_autodiff_node.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/ml_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/ml_lib.dir/src/tensor_element.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/tensor_element.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/tensor_element.cpp"
+},
+{
+  "directory": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/build/libs/ml_lib",
+  "command": "/usr/bin/c++  -I/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/include -g -std=gnu++2a -o CMakeFiles/ml_lib.dir/src/tensor.cpp.o -c /home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/tensor.cpp",
+  "file": "/home/jakob-liebig/Dokumente/VsCodeProjekte/cpp/Actor-Critic-Chess-Agent/libs/ml_lib/src/tensor.cpp"
+}
+]

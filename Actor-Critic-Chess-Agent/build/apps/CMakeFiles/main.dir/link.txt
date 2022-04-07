@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/__/src/chess_agent_environment.cpp.o CMakeFiles/main.dir/__/src/chess_agent_replay.cpp.o CMakeFiles/main.dir/__/src/chess_agent_train.cpp.o CMakeFiles/main.dir/__/src/chess_agent_test.cpp.o -o main  ../libs/chess_lib/libchess_lib.a ../libs/ml_lib/libml_lib.a 

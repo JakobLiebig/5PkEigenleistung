@@ -1,0 +1,24 @@
+target: mirror the position p along the x axis
+
+p(x, y)
+p_hat(x_hat, y_hat)
+
+x_n (number of possible x values), x_max (maximum x value)
+y_n (number of possible y values), y_max (maximum y value)
+
+
+p := x + y * x_n | - x, : x_n
+<=> y = (p - x) / x_n
+
+y_hat = a - (y - a) = 2a - y = 2 (y_max / 2) - y
+= y_max - y
+
+p_hat := x_hat + y_hat * x_n
+= x + (y_max - y) * x_n
+= x + (y_max - (p - x) / x_n) * x_n
+= x + y_max * x_n - x_n * (p - x) / x_n
+= x + y_max * x_n - (p - x)
+= x + y_max * x_n - p + x
+= 2x + y_max * x_n - p
+
+= 2 * (p % x_n) + y_max * x_n - p
